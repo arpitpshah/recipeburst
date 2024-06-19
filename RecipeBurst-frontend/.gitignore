@@ -1,0 +1,6 @@
+node_modules
+dist
+build
+.env
+.sonar_lock
+report-task.txt

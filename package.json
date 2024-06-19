@@ -1,0 +1,17 @@
+{
+  "name": "recipeburst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react-swipeable-views": "^0.13.5",
+    "@types/react-swipeable-views-utils": "^0.13.7",
+    "nodemon": "^3.0.1",
+    "react-google-recaptcha": "^3.1.0"
+  }
+}
